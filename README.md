@@ -1,2 +1,2 @@
-This code serves convert graph data into tabular form.
+This code serves to convert graph data into tabular form. \
 Example: INSTAT 
